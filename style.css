@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
+body {margin:0px;
+background: black}
+
+h1 {
+    font-family: 'Cardo';
+background-color:orange;
+color:white;
+line-height: 60px;
+    margin:0px;
+    text-align: center;
+}
+
+p{color:whitesmoke;
+   
+    text-align:center;
+}
+h2{color:aqua;
+text-align:center;
+}
